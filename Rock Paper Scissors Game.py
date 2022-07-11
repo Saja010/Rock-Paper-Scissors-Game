@@ -40,8 +40,8 @@ while True:
         print("you lose :( ") 
         compuetr_scor +=1  
         
-print("you are win ", uesr_scor )
-print("computer are win ", compuetr_scor )
+print("you score ", uesr_scor )
+print("computer score ", compuetr_scor )
 print("GoodBye! :) ")
 
 
